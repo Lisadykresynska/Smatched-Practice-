@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Smatched-Practice-/static/css/main.0895e8db.css",
+    "main.js": "/Smatched-Practice-/static/js/main.57fba6ab.js",
+    "index.html": "/Smatched-Practice-/index.html",
+    "main.0895e8db.css.map": "/Smatched-Practice-/static/css/main.0895e8db.css.map",
+    "main.57fba6ab.js.map": "/Smatched-Practice-/static/js/main.57fba6ab.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0895e8db.css",
+    "static/js/main.57fba6ab.js"
+  ]
+}
